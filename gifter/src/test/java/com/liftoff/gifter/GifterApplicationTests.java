@@ -1,10 +1,10 @@
-package com.liftoff.helloworld;
+package com.liftoff.gifter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloWorldApplicationTests {
+class GifterApplicationTests {
 
 	@Test
 	void contextLoads() {
