@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Gifter Presentation Slides](https://github.com/jordynacrawford/liftoff-assignments/blob/master/Gifter-Presentation.pdf)
